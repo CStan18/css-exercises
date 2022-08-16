@@ -1,16 +1,20 @@
 body {
   background: #eee;
   font-family: sans-serif;
+  border-color: black;
+  
 }
 
 .card {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  border-color: black;
 }
 
 .title {
   background: #e3f4ff;
+  border-color: black;
 }
 
 .content {
@@ -19,9 +23,14 @@ body {
 
 .button-container {
   background: #e3f4ff;
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+}
+
+div {
+  
 }
